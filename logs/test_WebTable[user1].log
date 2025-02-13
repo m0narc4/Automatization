@@ -1,0 +1,9 @@
+other_entity.logger 2025-02-13 15:52:58,817 INFO Открытие главной страницы
+other_entity.logger 2025-02-13 15:52:59,116 INFO Переход на страницу "Elements"
+other_entity.logger 2025-02-13 15:52:59,410 INFO Открытие формы "Web Tables"
+other_entity.logger 2025-02-13 15:52:59,653 INFO Добавление пользователя Buttercup в таблицу
+other_entity.logger 2025-02-13 15:52:59,654 INFO Нажатие на кнопку "Add"
+other_entity.logger 2025-02-13 15:52:59,889 INFO Заполнение полей
+other_entity.logger 2025-02-13 15:53:00,112 INFO Добавление пользователя Buttercup в таблицу
+other_entity.logger 2025-02-13 15:53:00,344 INFO Удаление пользователя из таблицы
+other_entity.logger 2025-02-13 15:53:00,344 INFO Удаление пользователя

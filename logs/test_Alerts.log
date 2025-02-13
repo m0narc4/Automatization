@@ -1,0 +1,12 @@
+other_entity.logger 2025-02-13 15:52:28,357 INFO Открытие главной страницы
+other_entity.logger 2025-02-13 15:52:29,629 INFO Переход на страницу "Alerts"
+other_entity.logger 2025-02-13 15:52:29,937 INFO Открытие формы Alerts
+other_entity.logger 2025-02-13 15:52:30,202 INFO Нажатие на кнопку 'Показать алерт'
+other_entity.logger 2025-02-13 15:52:30,314 INFO Закрытие алерта
+other_entity.logger 2025-02-13 15:52:30,327 INFO Нажатие на кнопку 'Показать алерт с окном подтверждения'
+other_entity.logger 2025-02-13 15:52:30,406 INFO Закрытие алерта
+other_entity.logger 2025-02-13 15:52:30,447 INFO Сверка текста 'You selected Ok' на странице рядом с кнопкой 'Показать алерт с окном подтверждения'
+other_entity.logger 2025-02-13 15:52:30,447 INFO Нажатие на кнопку 'Показать алерт с запросом'
+other_entity.logger 2025-02-13 15:52:30,515 INFO Отправка случайно сгенерированного имени: Wayne Howard
+other_entity.logger 2025-02-13 15:52:30,520 INFO Закрытие алерта
+other_entity.logger 2025-02-13 15:52:30,553 INFO Сверка текста 'You entered Wayne Howard' на странице рядом с кнопкой 'Показать алерт с запросом'

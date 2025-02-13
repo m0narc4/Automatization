@@ -1,0 +1,11 @@
+other_entity.logger 2025-02-13 15:53:19,204 INFO Открытие главной страницы
+other_entity.logger 2025-02-13 15:53:20,933 INFO Переход на страницу "Widgets"
+other_entity.logger 2025-02-13 15:53:21,238 INFO Открытие формы "Slider"
+other_entity.logger 2025-02-13 15:53:21,493 INFO Нажатие на слайдер
+other_entity.logger 2025-02-13 15:53:21,729 INFO Установка слайдеру значения 3
+other_entity.logger 2025-02-13 15:53:22,681 INFO Нужное значение установлено
+other_entity.logger 2025-02-13 15:53:22,682 INFO Открытие формы "Progress Bar"
+other_entity.logger 2025-02-13 15:53:22,908 INFO Нажатие на кнопку "Start"
+other_entity.logger 2025-02-13 15:53:26,158 INFO Нажатие на кнопку "Stop"
+other_entity.logger 2025-02-13 15:53:26,391 INFO Получение результата
+other_entity.logger 2025-02-13 15:53:26,408 INFO Результат в пределах допустимого

@@ -1,0 +1,13 @@
+other_entity.logger 2025-02-13 15:53:07,756 INFO Открытие главной страницы
+other_entity.logger 2025-02-13 15:53:09,414 INFO Переход на страницу "Alerts"
+other_entity.logger 2025-02-13 15:53:09,696 INFO Открытие формы "Browser Windows"
+other_entity.logger 2025-02-13 15:53:09,932 INFO Нажатие на кнопку "New Tab"
+other_entity.logger 2025-02-13 15:53:10,188 INFO Переключение на новую вкладку
+other_entity.logger 2025-02-13 15:53:10,196 INFO Закрытие вкладки
+other_entity.logger 2025-02-13 15:53:10,223 INFO Переключение на предыдущую вкладку
+other_entity.logger 2025-02-13 15:53:10,230 INFO Форма Browser Windows открылась
+other_entity.logger 2025-02-13 15:53:10,231 INFO Переход на страницу "Elements"
+other_entity.logger 2025-02-13 15:53:10,697 INFO Открытие формы "Links"
+other_entity.logger 2025-02-13 15:53:10,700 INFO Нажатие на кнопку "Home Link"
+other_entity.logger 2025-02-13 15:53:10,746 INFO Переключение на новую вкладку
+other_entity.logger 2025-02-13 15:53:11,760 INFO Переключение на предыдущую вкладку

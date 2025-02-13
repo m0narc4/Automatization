@@ -1,0 +1,46 @@
+{
+  "test_case1": {
+    "Alert1": {
+      "text": "You clicked a button",
+      "comparable_text": ""
+    },
+    "Alert2": {
+      "text": "Do you confirm action?",
+      "comparable_text": "You selected Ok"
+    },
+    "Alert3": {
+      "text": "Please enter your name",
+      "comparable_text": "You entered"
+    }
+  },
+
+  "test_case2": {
+    "ParentFrameText" : "Parent frame",
+    "Child_IFrameText": "Child Iframe"
+  },
+
+  "test_case3": {
+    "User1": {
+      "first_name": "Jon",
+      "last_name": "Snow",
+      "email": "knownothing@gmail.com",
+      "age": "30",
+      "salary": "3000",
+      "department": "alpha"
+    },
+
+    "User2": {
+      "first_name": "Buttercup",
+      "last_name": "Cyberscotch",
+      "email": "someEmail@gmail.com",
+      "age": "41",
+      "salary": "2000",
+      "department": "beta"
+    }
+  },
+
+  "test_case5": {
+    "age": 21
+  }
+
+}

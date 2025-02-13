@@ -1,0 +1,14 @@
+other_entity.logger 2025-02-13 15:53:34,759 INFO Открытие главной страницы
+other_entity.logger 2025-02-13 15:53:36,227 INFO Переход на страницу "Widgets"
+other_entity.logger 2025-02-13 15:53:36,522 INFO Открытие формы "DatePicker"
+other_entity.logger 2025-02-13 15:53:36,795 INFO Сверка текущей даты и даты в поле "Select Date"
+other_entity.logger 2025-02-13 15:53:36,811 INFO Сверка текущей даты и даты в поле "Date And Time"
+other_entity.logger 2025-02-13 15:53:36,826 INFO Начат процесс "задать дату ближайшего 29 февраля"
+other_entity.logger 2025-02-13 15:53:36,826 INFO Расчёт ближайшего 29 февраля
+other_entity.logger 2025-02-13 15:53:36,842 INFO Нажатие на поле "Select Date"
+other_entity.logger 2025-02-13 15:53:37,221 INFO Выбор ближайшего года, где есть 29 февраля, в поле "Select Date"
+other_entity.logger 2025-02-13 15:53:37,538 INFO Выбор дня
+other_entity.logger 2025-02-13 15:53:37,787 INFO Нажатие на поле "Date And Time"
+other_entity.logger 2025-02-13 15:53:38,081 INFO Клик на выбор года
+other_entity.logger 2025-02-13 15:53:38,315 INFO Выбор ближайшего года, где есть 29 февраля
+other_entity.logger 2025-02-13 15:53:38,761 INFO Выбор случайного времени суток

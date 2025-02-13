@@ -1,0 +1,12 @@
+{
+  "initial_setup": {
+    "base_url": "https://demoqa.com/",
+    "browser": "firefox",
+    "wait_time": 10,
+    "poll_frequency": 1
+  },
+
+  "options": {
+    "window_size": "--start-maximized"
+  }
+}
